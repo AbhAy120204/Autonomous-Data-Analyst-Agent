@@ -89,6 +89,20 @@ To enable tracing in the app, expand **LangSmith Tracing** in the sidebar and pa
 
 ---
 
+## Benchmark vs PandasAI
+
+Tested head-to-head on an adversarial CSV with mixed types, outliers, dirty categoricals, bogus math, and multiple date formats. Same model (`gemini-2.5-flash`) for both.
+
+| | ADA Agent | PandasAI |
+|-|:---------:|:--------:|
+| Time | 141s | 199s |
+| Traps detected (out of 10) | 8 | 6 |
+| Errors / crashes | 0 | 0 |
+
+**[→ Full benchmark with trap-by-trap results](BENCHMARK.md)**
+
+---
+
 ## Why this is hard to build (and why it matters)
 
 | Naive approach | This agent |
