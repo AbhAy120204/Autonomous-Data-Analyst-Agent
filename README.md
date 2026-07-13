@@ -64,6 +64,7 @@ The UI shows the agent's internal reasoning in real time — collapsed by defaul
 | 🪞 **Insight** | "Carol is the top performer with $91k revenue" |
 | 📋 **Summary** | Full executive report with Key Findings + Recommendations |
 
+https://github.com/user-attachments/assets/f8014eb3-b7fa-41bc-8622-6e5900052ec3
 ---
 
 ## LangSmith observability
