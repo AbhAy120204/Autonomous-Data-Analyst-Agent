@@ -47,6 +47,8 @@ The agent decides what to investigate next based on what it already found. It wr
 
 Bring your own [free Groq API key](https://console.groq.com) (takes 2 minutes to get). Upload any CSV.
 
+https://github.com/user-attachments/assets/52529f45-e668-4c11-ad97-528955afc6f8
+
 ---
 
 ## The ReAct loop in action
