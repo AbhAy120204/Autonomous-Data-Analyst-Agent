@@ -43,7 +43,7 @@ The agent decides what to investigate next based on what it already found. It wr
 
 ## Live demo
 
-**👉 [Try it here](https://autonomous-data-analyst-agent-hun39rzqecosyvx5pqu3rg.streamlit.app/)**
+# **👉 [Try it here](https://autonomous-data-analyst-agent-hun39rzqecosyvx5pqu3rg.streamlit.app/)**
 
 Bring your own [free Groq API key](https://console.groq.com) (takes 2 minutes to get). Upload any CSV.
 
